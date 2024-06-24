@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# get the Pro-origami software
+curl -OL https://stivalaa.github.io/AcademicWebsite/software/proorigami-cde-package.tar.gz
+# Unpack the software
+tar zxf proorigami-cde-package.tar.gz 
+
+# Move the demo notebook to be in the directory where the Pro-origami software works
+mv ~/pro-origami_demo_use.ipynb proorigami-cde-package/cde-root/home/proorigami/
+
