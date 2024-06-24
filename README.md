@@ -4,6 +4,8 @@
 # pro-origami-binder
 Alex Stivala & colleagues' Pro-origami software for making protein structure wiring diagrams bundled up for use via MyBinder-served Jupyter sessions.
 
+Click on the 'launch binder' badge to get started using the software on a temporary remote system **witout any installation**, login, or touching your own system.
+
 ---------------
 
 Attribution
